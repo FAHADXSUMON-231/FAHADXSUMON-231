@@ -10,11 +10,11 @@
 
 </h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+PICCI-RIDOY+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+RIDOY-404-CYBER+🥀;Today+I+Will+Tell+You+😇;Please+Follow+My+GitHub+🙏;Thanks+My+All+Friend+🤙+🥰;Love+From+Bangladesh🇧🇩)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+FAHAD X SUMON+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+FAHADXSUMON-231+🥀;Today+I+Will+Tell+You+😇;Please+Follow+My+GitHub+🙏;Thanks+My+All+Friend+🤙+🥰;Love+From+Bangladesh🇧🇩)](https://git.io/typing-svg)
 
 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
 
-<img src="https://profile-counter.glitch.me/RIDOY-404-CYBER/count.svg" />
+<img src="https://profile-counter.glitch.me/FAHADXSUMON-231/count.svg" />
 
 </p>
 
@@ -25,9 +25,9 @@
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 
-<a href="https://github.com/RIDOY-404-CYBER"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=RIDOY-404-CYBER&theme=monokai"></a>
+<a href="https://github.com/FAHADXSUMON-231"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=FAHADXSUMON-231&theme=monokai"></a>
 
 
-![RIDOY-404-CYBER's GitHub stats](https://github-readme-stats.vercel.app/api?username=RIDOY-404-CYBER&show_icons=true&theme=chartreuse-dark)  
+![FAHADXSUMON-231's GitHub stats](https://github-readme-stats.vercel.app/api?username=FAHADXSUMON-231&show_icons=true&theme=chartreuse-dark)  
 
-![RIDOY-404-CYBER GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RIDOY-404-CYBER&theme=radical)
+![FAHADXSUMON-231 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FAHADXSUMON-231&theme=radical)
